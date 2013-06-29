@@ -1,0 +1,13 @@
+*~
+*.swp
+
+osmdroid-android/bin
+osmdroid-android/trash
+osmdroid-android/gen
+osmdroid-android/local.properties
+osmdroid-android/target
+
+osmdroid-android/lint.xml
+osmdroid-android/proguard/
+osmdroid-android/projectSet.psf
+
